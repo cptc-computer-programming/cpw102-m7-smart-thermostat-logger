@@ -1,0 +1,1 @@
+# cpw102-m7-smart-thermostat-logger
