@@ -1,4 +1,4 @@
-# Smart Thermostat Temperature Logger
+# Smart Thermostat Logger
 
 ## Overview
 
